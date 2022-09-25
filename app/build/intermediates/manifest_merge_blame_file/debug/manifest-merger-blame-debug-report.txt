@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mygrocerylist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:12:9-21:20
+22            android:name="com.example.mygrocerylist.Activities.MainActivity"
+22-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:13:13-52
+23            android:label="@string/app_name"
+23-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:14:13-45
+24            android:theme="@style/AppTheme.NoActionBar" >
+24-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:15:13-56
+25            <intent-filter>
+25-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:17:17-69
+26-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:19:17-77
+28-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:22:9-25:59
+32            android:name="com.example.mygrocerylist.Activities.ListActivity"
+32-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:23:13-52
+33            android:label="@string/app_name"
+33-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:24:13-45
+34            android:theme="@style/AppTheme.NoActionBar" />
+34-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:25:13-56
+35        <activity android:name="com.example.mygrocerylist.Activities.DetailsActivity" />
+35-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:26:9-73
+35-->D:\App Developer\grocery_app\Grocery\app\src\main\AndroidManifest.xml:26:19-61
+36    </application>
+37
+38</manifest>

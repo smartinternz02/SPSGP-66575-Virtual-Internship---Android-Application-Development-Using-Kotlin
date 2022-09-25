@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_list_row.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_content_list.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\content_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_popup.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_confirmation_dialog.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\confirmation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mygrocerylist.app-merged_res-14:/layout_content_main.xml.flat",
+        "source": "com.example.mygrocerylist.app-main-16:/layout/content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-merged_res-14:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Harshal\\.gradle\\daemon\\7.5.1\\com.example.mygrocerylist.app-main-16:\\drawable\\ic_launcher_background.xml"
+    }
+]
